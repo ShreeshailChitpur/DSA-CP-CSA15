@@ -9,6 +9,8 @@ This is our course project for data structures and algorithm that implements a i
 - Display items from file
 - Display items that need to be restocked
 - Uses hashing to store items and retrieve them quickly
+- Option to use other hash functions (multiplicative hash function)
+- Option to use seperate chaining for collision resolving
 
 # Contributors:
 
