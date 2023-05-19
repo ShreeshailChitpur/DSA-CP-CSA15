@@ -16,6 +16,6 @@ This is our course project for data structures and algorithm that implements a i
 
 - Shreeshail Chitpur
 - Pratiksha Chopade
-- Atharva Chivate
+- @AtharvaChivate
 
 Thank you :) 
